@@ -1,2 +1,2 @@
-# Power-BI-project
-Real-Time AQI Trends and Pollution Analysis
+# Real-Time AQI Trends and Pollution Analysis
+PowerBI Mini Project
